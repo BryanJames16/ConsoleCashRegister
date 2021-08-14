@@ -1,0 +1,54 @@
+[Receipt Printing - start]
++--------------------------------------------------------------+
+                            Chum Bucket                         
+                Chum Bucket Store Warehouse - PUP
+               By: Chum Bucker Retail Systems inc.
+                5th Floor, South Wing, Main Bldg.
+                 Sta. Mesa, Manila, Philippines
+
+             Terminal: PUP-P1(1)  Serial: PLG574QJWS
+       Transaction: 02A56DV  Date: Tue Jan 27 21:37:15 2015
+                   Cashier: Adriano Villagracia
+
+  Item Code: 12345ABC
+  Item Name: Juicy Lemon
+  Price: Php 15.00 x 1
+
+ --------------------------------------------------------
+ 	  1     Item(s)             Php 15.00
+ 	          Cash              Php 100.00
+ 	                            -----------
+ 	                  CHANGE    Php 85.00
+
+             Thank you for shopping! Please come again!
+                This serves as your official Receipt.
++--------------------------------------------------------------+
+[Receipt Printing - end]
+
+[Receipt Printing - start]
++--------------------------------------------------------------+
+                            Chum Bucket                         
+                Chum Bucket Store Warehouse - PUP
+               By: Chum Bucker Retail Systems inc.
+                5th Floor, South Wing, Main Bldg.
+                 Sta. Mesa, Manila, Philippines
+
+             Terminal: PUP-P1(1)  Serial: PLG574QJWS
+       Transaction: 02A56DV  Date: Sat Aug 14 17:44:43 2021
+                   Cashier: Adriano Villagracia
+
+  Item Code: 84562AWF
+  Item Name: Coke Family Size
+  Price: Php 43.00 x 3
+
+ --------------------------------------------------------
+ 	  3     Item(s)             Php 129.00
+ 	          Cash              Php 500.00
+ 	                            -----------
+ 	                  CHANGE    Php 371.00
+
+             Thank you for shopping! Please come again!
+                This serves as your official Receipt.
++--------------------------------------------------------------+
+[Receipt Printing - end]
+

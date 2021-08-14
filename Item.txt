@@ -1,0 +1,17 @@
+58694MNO, RC Cola, 8.00
+84562AWF, Coke Family Size, 43.00
+12345ABC, Juicy Lemon, 15.00
+98765ZXY, Fruit Soda, 25.00
+95173QWE, Red Bull, 150.00
+78945POI, Sting Energy Drink, 30.00
+45612MNB, Tide, 30.00
+98765ASD, Bear Brand Powerded Milk, 10.00
+65432ZXC, Milo, 15.00
+25869LKJ, Zonrox Bleach, 5.00
+45856MNB, Safeguard, 1.5
+25847KJH, Palmolive Conditioner, 2.32
+14758RTY, Head and Shoulders, 2.32
+36958DFG, Gatsby Wax, 5.52
+56431ABC, Close Up, 90.00
+87946ABC, Colgate, 150.00
+21346ABC, Lollipop, 25.00
